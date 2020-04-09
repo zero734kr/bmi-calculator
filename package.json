@@ -1,0 +1,25 @@
+{
+  "name": "bmi-calculator.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./javascript/index.js",
+  "bin": {
+    "bmi": "./javascript/index.js"
+  },
+  "scripts": {
+    "test": "node ./javascript/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zero-Brazil734/bmi-calculator.git"
+  },
+  "author": "zero734kr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zero-Brazil734/bmi-calculator/issues"
+  },
+  "homepage": "https://github.com/Zero-Brazil734/bmi-calculator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
