@@ -27,6 +27,7 @@
 * PyPy: 196ms
 
 * GoLang: 374ms
+* GOLang Binary: 7ms
 ```
 
 ## Author
